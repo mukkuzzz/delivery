@@ -24,6 +24,29 @@ function Home() {
                 />
 
             </div>
+            <div className="home__row">
+            <Product
+                    id="1"
+                    title="Apple"
+                    price={17}
+                    rating={5}
+                    image="https://5.imimg.com/data5/LM/DU/MY-22954806/apple-fruit-500x500.jpg"
+                />
+                <Product
+                    id="1"
+                    title="Apple"
+                    price={17}
+                    rating={5}
+                    image="https://5.imimg.com/data5/LM/DU/MY-22954806/apple-fruit-500x500.jpg"
+                />
+                <Product
+                    id="1"
+                    title="Apple"
+                    price={17}
+                    rating={5}
+                    image="https://5.imimg.com/data5/LM/DU/MY-22954806/apple-fruit-500x500.jpg"
+                />
+            </div>
         </div>    
     )
 }

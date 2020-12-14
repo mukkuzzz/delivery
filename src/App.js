@@ -12,9 +12,11 @@ function App() {
         <Route path="/checkout">
         <Header />
         <h1>Checkout</h1>
+
         </Route>
         <Route path="/login">
           <h1>Login</h1>
+          
         </Route>
         <Route path="/">
           <Header />
